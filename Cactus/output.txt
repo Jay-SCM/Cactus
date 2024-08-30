@@ -1,0 +1,39 @@
+Extracted Numbers: [1, 1, 2, 3, 5, 8, 13, 21, 2, 5, 7, 1, 3, 6, 10, 15, 21, 1, 2, 1, 4, 9, 16]
+Positions in Text: [238, 241, 244, 247, 250, 253, 256, 260, 321, 324, 327, 362, 365, 368, 371, 375, 379, 412, 415, 430, 433, 436, 439]
+
+Anagrams:
+eilnst: ['listen', 'silent', 'listen', 'silent']
+eht: ['the', 'the', 'the']
+eilv: ['evil', 'evil', 'vile']
+is: ['is', 'is', 'is', 'is']
+dimoorrty: ['dormitory', 'dormitory']
+dirty: ['dirty', 'dirty']
+emos: ['some', 'some']
+aer: ['are', 'are', 'are']
+eehst: ['these', 'these']
+alos: ['also', 'also']
+estt: ['test', 'test']
+hitw: ['with', 'with']
+n: ['n', 'n']
+hnopty: ['python', 'python', 'python', 'python']
+aegrt: ['great', 'great', 'great']
+abeiilrrs: ['libraries', 'libraries']
+
+Geometric Sequences:
+[2, 4, 8, 16]
+[1, 2, 4, 8, 16]
+[1, 4, 16]
+[4, 8, 16]
+[1, 3, 9]
+
+Fibonacci Sequences:
+[1, 2, 3, 5, 8, 13, 21]
+
+Custom Sequences:
+[1, 3, 6, 10, 15, 21]
+[1, 4, 9, 16]
+
+Keyword Counts:
+python: 4
+great: 3
+libraries: 2
